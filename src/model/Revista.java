@@ -7,7 +7,8 @@ package model;
 
 /**
  *
- * @author 98930
+ * @author Renan Roeder, 08-17-2017
+ * 
  */
 public class Revista {
     private int codigo, paginas;
